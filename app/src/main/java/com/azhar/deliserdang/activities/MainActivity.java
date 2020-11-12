@@ -83,10 +83,6 @@ public class MainActivity extends AppCompatActivity implements MainAdapter.onSel
         lsMainMenu.add(mdlMainMenu);
         mdlMainMenu = new ModelMain("Wisata", R.drawable.ic_destination);
         lsMainMenu.add(mdlMainMenu);
-        mdlMainMenu = new ModelMain("Data Covid", R.drawable.ic_komunitas);
-        lsMainMenu.add(mdlMainMenu);
-        mdlMainMenu = new ModelMain("Rute Angkot", R.drawable.ic_rute_angkot);
-        lsMainMenu.add(mdlMainMenu);
 
         MainAdapter myAdapter = new MainAdapter(lsMainMenu, this);
         rvMainMenu.setAdapter(myAdapter);
