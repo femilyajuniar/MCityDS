@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Wisata Purwakarta.iml" filepath="$PROJECT_DIR$/Wisata Purwakarta.iml" group="Wisata Purwakarta" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Wisata Purwakarta/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wisata_Purwakarta.iml" filepath="$PROJECT_DIR$/.idea/modules/Wisata_Purwakarta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wisata_Purwakarta.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wisata_Purwakarta.app.iml" />
     </modules>
   </component>
 </project>

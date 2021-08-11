@@ -1,0 +1,73 @@
+com/azhar/deliserdang/decoration/BaseLayoutMargin.java
+ com.azhar.deliserdang.decoration.BaseLayoutMargin
+ com.azhar.deliserdang.decoration.BaseLayoutMargin$1
+com/azhar/deliserdang/activities/MainActivity.java
+ com.azhar.deliserdang.activities.MainActivity
+com/azhar/deliserdang/model/ModelPrayPlace.java
+ com.azhar.deliserdang.model.ModelPrayPlace
+com/azhar/deliserdang/decoration/MarginDelegate.java
+ com.azhar.deliserdang.decoration.MarginDelegate
+com/azhar/deliserdang/model/ModelMain.java
+ com.azhar.deliserdang.model.ModelMain
+com/azhar/deliserdang/activities/DetailWisataActivity.java
+ com.azhar.deliserdang.activities.DetailWisataActivity
+ com.azhar.deliserdang.activities.DetailWisataActivity$1
+com/azhar/deliserdang/api/Api.java
+ com.azhar.deliserdang.api.Api
+com/azhar/deliserdang/decoration/LayoutMarginDecoration.java
+ com.azhar.deliserdang.decoration.LayoutMarginDecoration
+com/azhar/deliserdang/adapter/WisataAdapter.java
+ com.azhar.deliserdang.adapter.WisataAdapter
+ com.azhar.deliserdang.adapter.WisataAdapter$1
+ com.azhar.deliserdang.adapter.WisataAdapter$ViewHolder
+ com.azhar.deliserdang.adapter.WisataAdapter$onSelectData
+com/azhar/deliserdang/adapter/KulinerAdapter.java
+ com.azhar.deliserdang.adapter.KulinerAdapter
+ com.azhar.deliserdang.adapter.KulinerAdapter$1
+ com.azhar.deliserdang.adapter.KulinerAdapter$ViewHolder
+ com.azhar.deliserdang.adapter.KulinerAdapter$onSelectData
+com/azhar/deliserdang/activities/HotelActivity.java
+ com.azhar.deliserdang.activities.HotelActivity
+ com.azhar.deliserdang.activities.HotelActivity$1
+com/azhar/deliserdang/model/ModelKuliner.java
+ com.azhar.deliserdang.model.ModelKuliner
+com/azhar/deliserdang/adapter/PrayPlaceAdapter.java
+ com.azhar.deliserdang.adapter.PrayPlaceAdapter
+ com.azhar.deliserdang.adapter.PrayPlaceAdapter$1
+ com.azhar.deliserdang.adapter.PrayPlaceAdapter$ViewHolder
+com/azhar/deliserdang/activities/DetailKulinerActivity.java
+ com.azhar.deliserdang.activities.DetailKulinerActivity
+ com.azhar.deliserdang.activities.DetailKulinerActivity$1
+com/azhar/deliserdang/decoration/OnClickLayoutMarginItemListener.java
+ com.azhar.deliserdang.decoration.OnClickLayoutMarginItemListener
+com/azhar/deliserdang/activities/WisataActivity.java
+ com.azhar.deliserdang.activities.WisataActivity
+ com.azhar.deliserdang.activities.WisataActivity$1
+com/azhar/deliserdang/adapter/HotelAdapter.java
+ com.azhar.deliserdang.adapter.HotelAdapter
+ com.azhar.deliserdang.adapter.HotelAdapter$1
+ com.azhar.deliserdang.adapter.HotelAdapter$ViewHolder
+ com.azhar.deliserdang.adapter.HotelAdapter$onSelectData
+com/azhar/deliserdang/activities/KulinerActivity.java
+ com.azhar.deliserdang.activities.KulinerActivity
+ com.azhar.deliserdang.activities.KulinerActivity$1
+com/azhar/deliserdang/activities/DetailHotelActivity.java
+ com.azhar.deliserdang.activities.DetailHotelActivity
+com/azhar/deliserdang/model/ModelHotel.java
+ com.azhar.deliserdang.model.ModelHotel
+com/azhar/deliserdang/activities/PrayPlaceActivity.java
+ com.azhar.deliserdang.activities.PrayPlaceActivity
+ com.azhar.deliserdang.activities.PrayPlaceActivity$1
+com/azhar/deliserdang/BuildConfig.java
+ com.azhar.deliserdang.BuildConfig
+com/azhar/deliserdang/utils/Tools.java
+ com.azhar.deliserdang.utils.Tools
+com/azhar/deliserdang/adapter/MainAdapter.java
+ com.azhar.deliserdang.adapter.MainAdapter
+ com.azhar.deliserdang.adapter.MainAdapter$1
+ com.azhar.deliserdang.adapter.MainAdapter$ViewHolder
+ com.azhar.deliserdang.adapter.MainAdapter$onSelectData
+com/azhar/deliserdang/model/ModelWisata.java
+ com.azhar.deliserdang.model.ModelWisata
+com/azhar/deliserdang/model/ModelMapLocation.java
+ com.azhar.deliserdang.model.ModelMapLocation
